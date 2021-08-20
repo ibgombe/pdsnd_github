@@ -15,4 +15,5 @@ In this project, you'll be simulating a realistic workflow to refactor previous 
   Git-Key-Terms.pdf
 
 ### Credits
-Git 
+Git documentation is so helpfull.
+https://git-scm.com/doc
