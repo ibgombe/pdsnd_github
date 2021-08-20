@@ -290,4 +290,7 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+    """Thank the user for his feedback"""
+
     print("\nThank you for your Feedback.")
